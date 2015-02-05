@@ -23,6 +23,12 @@ Instalacion:
 
  cd drowsy
 
+ sudo apt-get install python-opencv
+
+ sudo pip install numpy pygame 
+
+ (opcional) sudo pip install numpy PIL
+
 ::
 
 
