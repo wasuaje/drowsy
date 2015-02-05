@@ -2,8 +2,8 @@
 drowsy.py
 =======
 
-Es un proyecto Python, que ejemplifica como hacer deteccion facial y/o ocular para tratar de
-determinar si un operador se queda dormido mientra mira un monitor.
+ Es un proyecto Python, que ejemplifica como hacer deteccion facial y/o ocular para tratar de
+ determinar si un operador se queda dormido mientra mira un monitor.
 
 
 
