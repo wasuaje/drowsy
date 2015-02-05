@@ -19,6 +19,8 @@ Requiere:
 Instalacion:
 ------------
 
+::
+
  git clone https://github.com/wasuaje/drowsy.git
 
  cd drowsy
@@ -29,13 +31,12 @@ Instalacion:
 
  (opcional) sudo pip install numpy PIL
 
-::
+
 
 
 
 Ayuda:
 -----------------
 
-::
 
  Comunicate conmigo a wasuaje@hotmail.com si tienes duda o encuentras problemas para implementarlo.
