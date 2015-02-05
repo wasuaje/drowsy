@@ -2,10 +2,8 @@
 drowsy.py
 =======
 
-Es un proyecto Python, que ejemplifica como hace deteccion facial y/o ocular para tratar de
+Es un proyecto Python, que ejemplifica como hacer deteccion facial y/o ocular para tratar de
 determinar si un operador se queda dormido mientra mira un monitor.
-
-Utiliza opencv, numpy y pygame.
 
 
 
@@ -21,7 +19,9 @@ Requiere:
 Instalacion:
 ------------
 
-- git clone al repositorio, instale las dependenciar y ejecute python drowsy.py
+ git clone https://github.com/wasuaje/drowsy.git
+
+ cd drowsy
 
 ::
 
